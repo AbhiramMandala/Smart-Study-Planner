@@ -1,0 +1,18 @@
+{
+    "Mathematics": {
+        "hours": 50,
+        "completed": 20
+    },
+    "Physics": {
+        "hours": 40,
+        "completed": 15
+    },
+    "Computer Science": {
+        "hours": 60,
+        "completed": 25
+    },
+    "English": {
+        "hours": 30,
+        "completed": 10
+    }
+}
