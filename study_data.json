@@ -1,18 +1,14 @@
 {
-    "Mathematics": {
-        "hours": 50,
-        "completed": 20
+    "Python": {
+        "hours": 20,
+        "completed": 8
     },
-    "Physics": {
-        "hours": 40,
-        "completed": 15
+    "DBMS": {
+        "hours": 15,
+        "completed": 6
     },
-    "Computer Science": {
-        "hours": 60,
-        "completed": 25
-    },
-    "English": {
-        "hours": 30,
-        "completed": 10
+    "Operating Systems": {
+        "hours": 12,
+        "completed": 5
     }
 }
